@@ -1,37 +1,48 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/cazhatu/newzhatu/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<meta charset="utf-8">
+<meta name="description" content="">
+<title>CA炸图辅助欢迎您</title>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<link rel="shortcut icon" href="images/xingchen.jpg"/>
+<link rel="stylesheet" href="css/style.css"/>
+</head>
 
-### Markdown
+<body>
+<div class="ca">
+<img src="jpg/lsp.png"/ class="back" id="Background">
+<div class="menu">
+<a href="https://jq.qq.com/?_wv=1027&k=tVizDE4J" target="_blank">官方Q群</a>
+<a href="https://bbs.madakeji.top/thread/15">下载辅助</a>
+<a href="http://new.zhatu.club" target="_blank">XE官网</a>
+</div>
+<div class="like">
+<img src="jpg/CANB.jpg" id="logo">
+ <p>实时更新！众多功能等你探索！</p>
+<p>powered by CAzhatu</p>
+      </nav><!-- .navbar -->
+<img src="Screenshot_20220804_003400.jpg"  alt="炸图演示" /style="position:relative;top:500px;">
+<img src="retouch_2022080401000179_142730048376430.png"  alt="" /style="position:relative;top:-250px;">
+<marquee> 官方群号:317824143欢迎加入，论坛:bbs.madakeji.top</marquee >
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+</marquee>
 
-```markdown
-Syntax highlighted code block
+    </div>
+  </header><!-- End Header --
+ 
+</div>
+<div class="stylebq">
 
-# Header 1
-## Header 2
-### Header 3
+ <link rel="shortcut icon" href="CANB.jpg">
 
-- Bulleted
-- List
+        <!-- .container end -->
+ 
 
-1. Numbered
-2. List
+	
+   
+<script>
 
-**Bold** and _Italic_ and `Code` text
+	</script>
+    
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cazhatu/newzhatu/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+</body>
+</html>
